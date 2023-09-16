@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pandeyankur1324/moebius/static/css/main.5d53c841.css",
+    "main.js": "/pandeyankur1324/moebius/static/js/main.f1cb034a.js",
+    "static/media/logo.png": "/pandeyankur1324/moebius/static/media/logo.4afa2a87f4fe22d95472.png",
+    "static/media/cart.png": "/pandeyankur1324/moebius/static/media/cart.19c60e8b1f2ad815b45d.png",
+    "index.html": "/pandeyankur1324/moebius/index.html",
+    "main.5d53c841.css.map": "/pandeyankur1324/moebius/static/css/main.5d53c841.css.map",
+    "main.f1cb034a.js.map": "/pandeyankur1324/moebius/static/js/main.f1cb034a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d53c841.css",
+    "static/js/main.f1cb034a.js"
+  ]
+}
